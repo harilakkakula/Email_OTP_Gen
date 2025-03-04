@@ -1,0 +1,6 @@
+@Email_OTP_Gen_HostAddress = http://localhost:5057
+
+GET {{Email_OTP_Gen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
